@@ -25,3 +25,6 @@
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>                                                              
   
+## For Better Understanding
+
+Quality is a product of a conflict between programmers and testers
