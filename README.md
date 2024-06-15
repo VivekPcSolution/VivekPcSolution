@@ -17,14 +17,10 @@
 
 ## Contact Info :
 
-<a href="https://twitter.com/TgVivekBro"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 <a href="https://t.me/ChVivekBro"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
-  <a href="https://wa.me/+16462365855">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>                                                              
-  
+
 ## For Better Understanding
 
 Quality is a product of a conflict between programmers and testers
